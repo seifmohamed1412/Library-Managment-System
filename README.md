@@ -40,7 +40,7 @@ Sample Data:
 The project includes sample data for users, books, borrow records, and reservations to simulate real-world library activities and facilitate testing and development.
 
 Technology:
-MySQL / MariaDB for database management.
+MySQL
 
 SQL queries for data manipulation and transaction processing.
 
